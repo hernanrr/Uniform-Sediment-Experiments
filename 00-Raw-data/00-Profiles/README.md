@@ -1,7 +1,9 @@
 # Water surface elevation and bed elevation profiles
 These are water surface elevation and bed elevation profiles taken during the course of the experiments.
 
-The filename is divided into fields which specify, from left to right:
+They files are organized first by water flow rate and then by experiment type, whether equilibirum run or aggradational run. 
+
+Each filename is divided into fields which specify, from left to right:
 1. Sediment mass feed rate, in grams per minute (g/min);
 2. Volumetric water flow rate, in liters per second (lps);
 3. Date the measurement was taken, in ISO 8601 format (YYYYMMDD); 
