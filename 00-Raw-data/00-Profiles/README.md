@@ -13,6 +13,7 @@ For example, the file `16000-20lps-20150806-002-eq.csv` has the information for 
 The file contents are formated in three columns, with the column header on the second row, as seen, for example, in the first 5 rows of file `1000-30lps-20140718-001-eq.csv`: 
 
 Run|20140718-001-eq|1000
+--|--|--
 x (m)|WS (m)|BED (m)
 2|37|16
 2.1|37|16
